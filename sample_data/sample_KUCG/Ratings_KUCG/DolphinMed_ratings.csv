@@ -1,0 +1,50 @@
+HABITAT NAME,DolphinMed,,,
+,,,,
+HABITAT ONLY PROPERTIES,,,,
+,Rating,DQ,Weight,E/C
+age of maturity,3,2,2,C
+reproductive strategy,2,2,2,C
+population connectivity,3,2,2,C
+local status of species,3,2,2,C
+,,,,
+HABITAT STRESSOR OVERLAP PROPERTIES,,,,
+,,,,
+DolphinMed/HookLine OVERLAP,,,,
+,Rating,DQ,Weight,E/C
+mortality,1,2,2,C
+life stages affected by stressor,0,2,2,C
+intensity,SHAPE,2,2,E
+temporal overlap,3,3,2,E
+likelihood of capture by gear,1,2,2,E
+current status of management,SHAPE,2,2,E
+likelihood of interaction,SHAPE,2,1,E
+,,,,
+DolphinMed/Nets OVERLAP,,,,
+,Rating,DQ,Weight,E/C
+mortality,3,2,2,C
+life stages affected by stressor,2,2,2,C
+intensity,SHAPE,2,2,E
+temporal overlap,3,1,2,E
+likelihood of capture by gear,3,2,2,E
+current status of management,SHAPE,2,2,E
+likelihood of interaction,SHAPE,2,1,E
+,,,,
+DolphinMed/PotsTraps OVERLAP,,,,
+,Rating,DQ,Weight,E/C
+mortality,2,2,2,C
+life stages affected by stressor,0,2,2,C
+intensity,SHAPE,2,2,E
+temporal overlap,3,2,2,E
+likelihood of capture by gear,1,3,2,E
+current status of management,SHAPE,2,2,E
+likelihood of interaction,SHAPE,2,1,E
+,,,,
+DolphinMed/Trawls OVERLAP,,,,
+,Rating,DQ,Weight,E/C
+mortality,3,2,2,C
+life stages affected by stressor,0,2,2,C
+intensity,SHAPE,2,2,E
+temporal overlap,2,3,2,E
+likelihood of capture by gear,2,2,2,E
+current status of management,SHAPE,2,2,E
+likelihood of interaction,SHAPE,2,1,E

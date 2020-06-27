@@ -1,0 +1,1 @@
+{"stressors_dir": "C:\\Users\\gverutes\\Downloads\\Bycatch\\gis\\Kuching_SRA\\Stressors\\_FINAL\\PostMonsoon", "species_dir": "C:\\Users\\gverutes\\Downloads\\Bycatch\\gis\\Kuching_SRA\\Species\\_FINAL\\PostMonsoon", "criteria_dir": "C:\\Users\\gverutes\\Downloads\\Bycatch\\gis\\Kuching_SRA\\Stressors\\_FINAL\\PostMonsoon\\Spatially_Explicit_Criteria"}
